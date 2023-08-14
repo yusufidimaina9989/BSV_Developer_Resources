@@ -3,7 +3,7 @@ Available and important resources that you need to start building on BSV
 
 **BSV_Blockchain :**
 
-Bitcoin SV (BSV) is a cryptocurrency and blockchain project that emerged as a result of a hard fork from the Bitcoin Cash (BCH) blockchain on November 15, 2018. BSV stands for "Satoshi Vision," and the project's primary goal is to maintain and scale the original vision of Bitcoin's creator, Satoshi Nakamoto.
+Bitcoin SV (BSV) is a cryptocurrency and blockchain project that emerged as a result of a hard fork from the Bitcoin Cash (BCH) blockchain on November 15, 2018. BSV stands for "Bitcoin Satoshi Vision," and the project's primary goal is to maintain and scale the original vision of Bitcoin's creator, Satoshi Nakamoto.
 
 Key features and aspects of the BSV blockchain include:
 
