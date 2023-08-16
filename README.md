@@ -1,4 +1,11 @@
 # Awesome BSV Blockchain
+<a href="https://github.com/yusufidimaina9989">
+      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    </a>
+  </p>
 
 A curated list of resources, tools, libraries, and projects related to the Bitcoin SV (BSV) blockchain. Whether you're a developer, researcher, or enthusiast, this collection aims to provide valuable insights and assistance for navigating the world of BSV.
 
