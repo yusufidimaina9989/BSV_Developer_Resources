@@ -15,6 +15,7 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Getting Started](#getting-started)
 - [Development Libraries](#development-libraries)
 - [Tools](#tools)
+- [Oracles](#oracles)
 - [Explorers](#explorers)
 - [Projects](#projects)
 - [Communities](#communities)
@@ -51,7 +52,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 ## Oracles
 
 - [WitnessOnChain Oracle](https://witnessonchain.com/)
-- [Data Pay Oracle](https://bitindex.network/)
+- [DataPay Oracle](https://github.com/unwriter/datapay)
 
   
 ## Explorers
