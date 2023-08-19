@@ -48,6 +48,12 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [BSV Wallet](https://bsvwallet.dev/)
 - [MetaID - Identity Protocol](https://metaid.app/)
 
+## Oracles
+
+- [WitnessOnChain Oracle](https://witnessonchain.com/)
+- [Data Pay Oracle](https://bitindex.network/)
+
+  
 ## Explorers
 
 - [Whatsonchain](https://whatsonchain.com/)
