@@ -152,6 +152,10 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [SmartContracts Video Tutorials](https://youtube.com/@bitcoinclasswithsatoshi7988)
 - [Introduction to BSV Scripting](https://blog.moneybutton.com/2018/11/12/introduction-to-bsv-scripting/)
 - [Bitcoin SV: Scaling the Unscalable](https://coingeek.com/bitcoin-sv-scaling-the-unscalable/)
+- [bitcoins  the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+- [BSV Planaria框架技术总结一 节点搭建](https://zhuanlan.zhihu.com/p/64697171)
+- [BSV Planaria框架技术总结二 Bitquery](https://zhuanlan.zhihu.com/p/64796784)
+
 
 ## Contribute
 
