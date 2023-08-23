@@ -18,6 +18,8 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Oracles](#oracles)
 - [Social Media](#social-media)
 - [Storage](#storage)
+- [Commercial](#commercial)
+- [Others & Demos](#others-&-demos)
 - [Explorers](#explorers)
 - [Projects](#projects)
 - [Communities](#communities)
@@ -83,6 +85,24 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [BitPaste](https://www.bitpaste.app/) - Store and share plain text snippets on the Bitcoin (SV) blockchain.
 - [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
 - [BitDiary](https://bico.media/6c0fd6bc82865d65ca888b8f4532336c3c018745c4f53c591407d74f3e03c5fb) - An on-chain diary.
+
+## Commercial
+- [GoBitFundMe](https://gobitfundme.com/) - GoBitFundMe is designed to help people come together to raise money using the full power of blockchain technology.
+- [CityOnChain](http://cityonchain.com/) - City album.
+- [SporeStack](https://sporestack.com) - Launch VPS servers for Bitcoin SV. API-driven.
+- [audioB](https://www.audiob.app/) -  Discover and share original audio created by independent music producers, podcasters, DJs and more.
+- [TonicPow](https://tonicpow.com) -  Promotion marketplace built using Bitcoin
+- [Chronos](https://www.chronoslabs.net/) - Chronos Labs is a small Bitcoin software house, building products and open source software on Bitcoin (SV).
+
+## Others & Demos
+- [Threshold Signature by Bitmesh](https://bitmeshexchange.github.io/thresholdsig/)
+- Game on Chain - [Machine Learning](https://bico.media/7a304727ff7fc11916d281118a270e7faea5f48a03713f250ea416109a082593)  [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e)  [Tetris](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea)
+- Application on Chain - [Wish](https://bico.media/047df3e724ca92004e4d1f324d02e3b6f86bb5de46a6f33c210d2aefd94182d5)  [BeeSV](https://bico.media/e701a8d3e70f0542ace1503b1a660aa0a685dfad9151f5fecc82d9a919bf5603)
+- Content on Chain - [Video](https://bico.media/6589ea97bc1bd74ddd782c122594e711d12efed5eac85ccbae432689b9008c4c) [Shem's album](https://bico.media/0f11d8e04040d75d7551badc6e5d0d2e5a88e224d34a4952583ee7d0d83e75c7)
+- [BitChat](https://bitchat.bitdb.network/) - An on-chain chatroom, free for now.
+- [BSV Controlled Device](https://www.twitch.tv/bsvcontrol) - Control the LEDs with an payment tx.
+- [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype.
+- Onchain Blog - [Monkeylord's blog](https://bico.media/1HxQvgt7EnhTqP1spw3Tudidh28w4caXqs/2019/09/01/Build-Your-Blog-on-BSV-with-D-Protocol/index.html) [jwilliams's blog](https://bico.media/15aYtcc4BdfdMWzcqWU5j77AkfUJCboLrS/index.html)
 
   
 ## Explorers
