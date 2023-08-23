@@ -127,6 +127,17 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Bitping - Network Monitoring](https://bitping.com/)
 - [Baemail - Encrypted Messaging](https://baemail.me/)
 - [WeatherSV - Weather Data on BSV](https://weathersv.app/)
+- [BitSocket](https://bitsocket.org) - Message Bus for Bitcoin.
+- [B Protocol](https://github.com/unwriter/B) - Bitcoin Simple Storage Protocol. [Try it](https://b.bitdb.network)
+- [Datapay](https://github.com/unwriter/datapay) - Build and broadcast data transactions to the Bitcoin SV blockchain.
+- [Planaria](https://planaria.network/) - Infinite API over Bitcoin.
+- [paymail](https://github.com/bitcoin-sv-specs/paymail) - BSV paymail protocol. [express implementation](https://github.com/moneybutton/express-paymail) [client](https://github.com/moneybutton/paymail-client)
+- [bottle](https://github.com/interplanaria/bottle) - A bitcoin browser.
+- [BSV Editor](http://www.bowmain.co.uk/BSV/index.html) - A Bitcoin script compiler/debugger with GUI.
+- [planter](https://github.com/MerlinB/planter) - A library for fetching and creating Metanet nodes on the Bitcoin SV blockchain.
+- [BoostPow](https://boostpow.com/) - Boost is a signaling method that associates content with spent energy.
+- [MetaStore](https://metastore.app) - Economically incentivized to be the richest & most up-to-date app store on the blockchain.
+
 
 ## Communities
 
