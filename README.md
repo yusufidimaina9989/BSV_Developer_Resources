@@ -14,7 +14,7 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Development Libraries](#development-libraries)
-- [Tools](#tools)
+- [Service & Tools](#service-&-tools)
 - [Oracles](#oracles)
 - [Social Media](#social-media)
 - [Storage](#storage)
@@ -43,9 +43,14 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Money Button JavaScript Library](https://github.com/moneybutton/bsv)
 - [Dart Library for Interacting with Bitcoin Network](https://github.com/twostack/dartsv)
 - [Twetch JavaScript Library](https://github.com/repcomm/twetch-js)
+- An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
+- [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
+- [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
+- [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
 
-## Tools
-
+## Service & Tools
+- [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
+- [etched](https://etched.page/) 
 - [ElectrumSV Wallet](https://electrumsv.io/)
 - [Sensilet Wallet](https://sensilet.com)
 - [BSV Wallet](https://bsvwallet.dev/)
@@ -55,6 +60,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 - [WitnessOnChain Oracle](https://witnessonchain.com/)
 - [DataPay Oracle](https://github.com/unwriter/datapay)
+<hr>
 
 ### Applications
 
