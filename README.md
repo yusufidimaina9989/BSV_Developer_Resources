@@ -23,7 +23,8 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Explorers](#explorers)
 - [Infrasturucture](#infrasturucture)
 - [Projects](#projects)
-- [Communities](#communities)
+- [Communitu](#community)
+- [Talks & Blogs](#talks-&-blogs)
 - [Articles and Tutorials](#articles-and-tutorials)
 - [Contribute](#contribute)
 
@@ -149,9 +150,21 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [BoostPow](https://boostpow.com/) - Boost is a signaling method that associates content with spent energy.
 - [MetaStore](https://metastore.app) - Economically incentivized to be the richest & most up-to-date app store on the blockchain.
 
+## Talks & Blogs
+- [Set in stone](https://medium.com/@craig_10243/set-in-stone-7ebc9d31500e)
+- [The resolution of the Bitcoin Cash experiment](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
+- [Craig S Wright](https://medium.com/@craig_10243)
+- [unwriter](https://medium.com/@_unwriter)
+- [Jack Davies](https://medium.com/@jack.d)
 
-## Communities
+<a name="community" />
 
+## Community
+- [Metanet-ICU](https://metanet.icu/)
+- [unwriter's slack](https://www.bitdb.network/atlantis)
+- [Craig S Wright on Twitter](https://twitter.com/proffaustus)
+- [Reddit](https://www.reddit.com/r/bitcoinsv)
+- [Another Reddit](https://www.reddit.com/r/bitcoincashsv)
 - [BSV Discord](https://discord.gg/s4MknTD)
 - [BSV Subreddit](https://www.reddit.com/r/bitcoincashSV/)
 - [Bitcoin SV Forum](https://bitcoinsv.io/forums/)
