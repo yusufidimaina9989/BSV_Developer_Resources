@@ -21,6 +21,7 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Commercial](#commercial)
 - [Others & Demos](#others-&-demos)
 - [Explorers](#explorers)
+- [Infrasturucture](#infrasturucture)
 - [Projects](#projects)
 - [Communities](#communities)
 - [Articles and Tutorials](#articles-and-tutorials)
@@ -119,6 +120,16 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Whatsonchain](https://whatsonchain.com/)
 - [Bitindex Explorer](https://bitindex.network/)
 - [Blockchair BSV Explorer](https://blockchair.com/bitcoin-sv)
+
+## Infrastructure
+- Gateways - Browse/Upload metanet content. [Bico.Media](https://bico.media/) [Bitcoinfiles](https://www.bitcoinfiles.org/) [Bitpaste](https://www.bitpaste.app/)
+- [miniGate](https://github.com/monkeylord/MiniGate) - launch your personal light-weight gateway.
+- [BitDB](https://bitdb.network/) - An autonomous database that continuously synchronizes itself with Bitcoin. See [planaria](https://docs.planaria.network/).
+- [BitBus](https://bitbus.network/) - Build your app or a smart wallet backend without running a Bitcoin full node.
+- Search Engines - [Oyo](https://oyo.cash/) [trends](https://trends.cash/)
+- [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
+- [MatterCloud](https://developers.mattercloud.io/) - A Bitcoin Service Provider.
+
 
 ## Projects
 
