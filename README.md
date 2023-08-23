@@ -16,6 +16,8 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Development Libraries](#development-libraries)
 - [Tools](#tools)
 - [Oracles](#oracles)
+- [Social Media](#social-media)
+- [Storage](#storage)
 - [Explorers](#explorers)
 - [Projects](#projects)
 - [Communities](#communities)
@@ -53,6 +55,28 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 - [WitnessOnChain Oracle](https://witnessonchain.com/)
 - [DataPay Oracle](https://github.com/unwriter/datapay)
+
+### Applications
+
+## Social Media
+- [Twetch](https://twetch.app/) - An on-chain twitter.
+- [WeiBlock](https://weiblock.app) - An on-chain microblog.
+- [Poster.cash](https://poster.cash) - Social network client using the Memo protocol. It's powered by Bitdb and only communicates with a Bitdb node.
+- [MetaTalk](https://metatalk.io/) - An on-chain chatroom, with multiple channels.
+- [BitStagram](https://bitstagram.bitdb.network/) -  Share pictures and get tips.
+- [Yours](https://www.yours.org/) - A social network where you can earn Bitcoin SV if you create value.
+- [Showjob](https://www.showjob.app) - A freelance app with BSV.
+- [BlockPost](https://blockpost.network/) - The decentralized, permissionless, social network.
+- [Relica](https://relica.world/) - Post photos. Make money. Maintain ownership.
+- [BitSurf](https://www.bitsurf.network/) - Alternative application to browse Twetch posts.
+- [WeiBlock](https://weiblock.app/) - Social media application based in China.
+
+## Storage
+- [Opassum](https://opassum.com/) - An onchain password manager.
+- [Bitsent](http://bitsent.net/) -  Easily share encrypted immutable files.
+- [BitPaste](https://www.bitpaste.app/) - Store and share plain text snippets on the Bitcoin (SV) blockchain.
+- [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
+- [BitDiary](https://bico.media/6c0fd6bc82865d65ca888b8f4532336c3c018745c4f53c591407d74f3e03c5fb) - An on-chain diary.
 
   
 ## Explorers
