@@ -49,6 +49,15 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
 - [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
+- [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
+- [bitcoinj-sv](https://gitlab.com/bitcoinj-sv/bitcoinj-sv/) - The bitcoinj-sv library is a Java implementation of the Bitcoin SV protocol. This library is a fork of Mike Hearn's original bitcoinj library aimed at supporting Bitcoin SV.
+- [BitSV](https://github.com/AustEcon/bitsv) - An easy-to-use Python 3, Bitcoin SV library.
+- [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js.
+- [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - A JavaScript Library for building transactions for Bitcoin Files Protocol (BFP). [SDK](https://github.com/BitcoinFiles/bitcoinfiles-sdk)
+- ECIES - Encrypt message with Bitcoin PublicKey, decrypt it with PrivateKey. BIE1 format, Electrum/Electron Cash Compatible. [JavaScript](https://github.com/monkeylord/electrum-ecies)/[Go](https://github.com/gitzhou/bitcoin-ecies)
+- [Polynym](https://polynym.io/) - Simple BSV address resolution for Twetch, HandCash, RelayX and PayMail handles.
+- [Go Bitcoin](https://gobitcoinsv.com) - Bitcoin libraries in Golang.
+
 
 ## Service & Tools
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
