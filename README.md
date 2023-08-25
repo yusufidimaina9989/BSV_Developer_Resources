@@ -23,7 +23,7 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Explorers](#explorers)
 - [Infrasturucture](#infrasturucture)
 - [Projects](#projects)
-- [Communitu](#community)
+- [Community](#community)
 - [Talks & Blogs](#talks-&-blogs)
 - [Articles and Tutorials](#articles-and-tutorials)
 - [Contribute](#contribute)
