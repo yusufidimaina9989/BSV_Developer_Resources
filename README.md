@@ -38,9 +38,9 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Bitcoin SV Wiki](https://en.wikipedia.org/wiki/Bitcoin_SV)
 - [BSV Developer Documentation](https://docs.bitcoinsv.io/)
 - [BSV GitHub Repository](https://github.com/bitcoin-sv/bitcoin-sv)
+- [Open Standards](https://openstandards.cash) for industry collaboration
 
 ## Development Libraries
-
 
 - [Bitindex JavaScript Library](https://github.com/bitindex/bitindex-sdk-js)
 - [sCrypt-TS SmartContracts Library](https://github.com/sCrypt.inc)
@@ -59,7 +59,8 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - ECIES - Encrypt message with Bitcoin PublicKey, decrypt it with PrivateKey. BIE1 format, Electrum/Electron Cash Compatible. [JavaScript](https://github.com/monkeylord/electrum-ecies)/[Go](https://github.com/gitzhou/bitcoin-ecies)
 - [Polynym](https://polynym.io/) - Simple BSV address resolution for Twetch, HandCash, RelayX and PayMail handles.
 - [Go Bitcoin](https://gobitcoinsv.com) - Bitcoin libraries in Golang.
-
+- [Sendover](https://github.com/p2ppsr/sendover) type-42 key derivation library.
+- [Babbage SDK](https://github.com/p2ppsr/babbage-sdk) for building Bitcoin SV apps.
 
 ## Service & Tools
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
@@ -68,6 +69,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Sensilet Wallet](https://sensilet.com)
 - [BSV Wallet](https://bsvwallet.dev/)
 - [MetaID - Identity Protocol](https://metaid.app/)
+- [Authrite](https://brc.dev/31) identity protocol
 
 ## Oracles
 
@@ -96,6 +98,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [BitPaste](https://www.bitpaste.app/) - Store and share plain text snippets on the Bitcoin (SV) blockchain.
 - [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
 - [BitDiary](https://bico.media/6c0fd6bc82865d65ca888b8f4532336c3c018745c4f53c591407d74f3e03c5fb) - An on-chain diary.
+- [NanoStore](https://projectbabbage.com/nanostore) overlay network for content storage and delivery.
 
 ## Commercial
 - [GoBitFundMe](https://gobitfundme.com/) - GoBitFundMe is designed to help people come together to raise money using the full power of blockchain technology.
@@ -104,6 +107,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [audioB](https://www.audiob.app/) -  Discover and share original audio created by independent music producers, podcasters, DJs and more.
 - [TonicPow](https://tonicpow.com) -  Promotion marketplace built using Bitcoin
 - [Chronos](https://www.chronoslabs.net/) - Chronos Labs is a small Bitcoin software house, building products and open source software on Bitcoin (SV).
+- [BotCrafter.io](https://botcrafter.io) — An [open-source](https://github.com/p2ppsr/botcrafter-frontend) marketplace for buying and selling AI chatbots with custom personalities as NFTs.
 
 ## Others & Demos
 - [Threshold Signature by Bitmesh](https://bitmeshexchange.github.io/thresholdsig/)
@@ -114,7 +118,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [BSV Controlled Device](https://www.twitch.tv/bsvcontrol) - Control the LEDs with an payment tx.
 - [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype.
 - Onchain Blog - [Monkeylord's blog](https://bico.media/1HxQvgt7EnhTqP1spw3Tudidh28w4caXqs/2019/09/01/Build-Your-Blog-on-BSV-with-D-Protocol/index.html) [jwilliams's blog](https://bico.media/15aYtcc4BdfdMWzcqWU5j77AkfUJCboLrS/index.html)
-
+- [Build a ToDo List app on-chain](https://projectbabbage.com/docs/babbage-sdk/building-example-app)
   
 ## Explorers
 
@@ -149,6 +153,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [planter](https://github.com/MerlinB/planter) - A library for fetching and creating Metanet nodes on the Bitcoin SV blockchain.
 - [BoostPow](https://boostpow.com/) - Boost is a signaling method that associates content with spent energy.
 - [MetaStore](https://metastore.app) - Economically incentivized to be the richest & most up-to-date app store on the blockchain.
+- [Project Babbage](https://projectbabbage.com) - Frameworks, tools and resources for building MetaNet apps.
 
 ## Talks & Blogs
 - [Set in stone](https://medium.com/@craig_10243/set-in-stone-7ebc9d31500e)
@@ -168,6 +173,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [BSV Discord](https://discord.gg/s4MknTD)
 - [BSV Subreddit](https://www.reddit.com/r/bitcoincashSV/)
 - [Bitcoin SV Forum](https://bitcoinsv.io/forums/)
+- [Babbage Developer Community](https://chat.projectbabbage.com)
 
 ## Articles and Tutorials
 
@@ -179,7 +185,6 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [bitcoins  the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 - [BSV Planaria框架技术总结一 节点搭建](https://zhuanlan.zhihu.com/p/64697171)
 - [BSV Planaria框架技术总结二 Bitquery](https://zhuanlan.zhihu.com/p/64796784)
-
 
 ## Contribute
 
