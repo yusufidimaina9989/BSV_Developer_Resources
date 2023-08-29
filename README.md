@@ -61,6 +61,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Go Bitcoin](https://gobitcoinsv.com) - Bitcoin libraries in Golang.
 - [Sendover](https://github.com/p2ppsr/sendover) type-42 key derivation library.
 - [Babbage SDK](https://github.com/p2ppsr/babbage-sdk) for building Bitcoin SV apps.
+- [Flutter BSV](https://github.com/Dhuliang/flutter-bsv) - Dart library for Bitcoin SV apps.
 
 ## Service & Tools
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
