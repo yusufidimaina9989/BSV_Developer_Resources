@@ -162,7 +162,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 ## Talks & Blogs
 - [Set in stone](https://medium.com/@craig_10243/set-in-stone-7ebc9d31500e)
 - [The resolution of the Bitcoin Cash experiment](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
-- [Craig S Wright](https://medium.com/@craig_10243)
+- [Craig S Wright homepage](https://craigwright.net)
 - [unwriter](https://medium.com/@_unwriter)
 - [Jack Davies](https://medium.com/@jack.d)
 
@@ -171,7 +171,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 ## Community
 - [Metanet-ICU](https://metanet.icu/)
 - [unwriter's slack](https://www.bitdb.network/atlantis)
-- [Craig S Wright on Twitter](https://twitter.com/proffaustus)
+- [Craig S Wright on Twitter](https://twitter.com/Dr_CSWright)
 - [Reddit](https://www.reddit.com/r/bitcoinsv)
 - [Another Reddit](https://www.reddit.com/r/bitcoincashsv)
 - [BSV Discord](https://discord.gg/s4MknTD)
