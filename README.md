@@ -11,22 +11,25 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 
 ## Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Development Libraries](#development-libraries)
-- [Service & Tools](#service-&-tools)
-- [Oracles](#oracles)
-- [Social Media](#social-media)
-- [Storage](#storage)
-- [Commercial](#commercial)
-- [Others & Demos](#others-&-demos)
-- [Explorers](#explorers)
-- [Infrasturucture](#infrasturucture)
-- [Projects](#projects)
-- [Community](#community)
-- [Talks & Blogs](#talks-&-blogs)
-- [Articles and Tutorials](#articles-and-tutorials)
-- [Contribute](#contribute)
+- [Awesome BSV Blockchain](#awesome-bsv-blockchain)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+  - [Development Libraries](#development-libraries)
+  - [Service \& Tools](#service--tools)
+  - [Oracles](#oracles)
+    - [Applications](#applications)
+  - [Social Media](#social-media)
+  - [Storage](#storage)
+  - [Commercial](#commercial)
+  - [Others \& Demos](#others--demos)
+  - [Explorers](#explorers)
+  - [Infrastructure](#infrastructure)
+  - [Projects](#projects)
+  - [Talks \& Blogs](#talks--blogs)
+  - [Community](#community)
+  - [Articles and Tutorials](#articles-and-tutorials)
+  - [Contribute](#contribute)
 
 ## Introduction
 
@@ -48,8 +51,8 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Dart Library for Interacting with Bitcoin Network](https://github.com/twostack/dartsv)
 - [Twetch JavaScript Library](https://github.com/repcomm/twetch-js)
 - An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
-- [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
-- [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
+- [PageShot (archived)](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
+- [Codeonchain (archived)](https://coingeek.com/codeonchain-introduces-a-github-for-the-bsv-blockchain) - Upload a repository to metanet.
 - [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
 - [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
 - [bitcoinj-sv](https://gitlab.com/bitcoinj-sv/bitcoinj-sv/) - The bitcoinj-sv library is a Java implementation of the Bitcoin SV protocol. This library is a fork of Mike Hearn's original bitcoinj library aimed at supporting Bitcoin SV.
