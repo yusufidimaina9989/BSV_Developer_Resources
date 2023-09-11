@@ -66,6 +66,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Sendover](https://github.com/p2ppsr/sendover) type-42 key derivation library.
 - [Babbage SDK](https://github.com/p2ppsr/babbage-sdk) for building Bitcoin SV apps.
 - [Flutter BSV](https://github.com/Dhuliang/flutter-bsv) - Dart library for Bitcoin SV apps.
+- [LinkSV](https://www.npmjs.com/package/linksv) - A Bitcoin SV (BSV) data protocol for effortless reads, writes and updates. Write any arbitrary javascript class value to the blockchain and easily update it, leaving an immutable audit trail.
 
 ## Service & Tools
 
