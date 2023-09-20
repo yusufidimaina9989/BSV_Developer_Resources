@@ -44,6 +44,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 - [Bitindex JavaScript Library](https://github.com/bitindex/bitindex-sdk-js)
 - [sCrypt-TS SmartContracts Library](https://github.com/sCrypt.inc)
+- [sCrypt 1Sat Ordinals Library](https://github.com/sCrypt-Inc/scrypt-ord)
 - [Money Button JavaScript Library](https://github.com/moneybutton/bsv)
 - [Dart Library for Interacting with Bitcoin Network](https://github.com/twostack/dartsv)
 - [Twetch JavaScript Library](https://github.com/repcomm/twetch-js)
