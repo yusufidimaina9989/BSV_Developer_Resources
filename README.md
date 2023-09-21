@@ -193,6 +193,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 - [Building on BSV: A Comprehensive Guide](https://bitcoinsv.io/2020/04/22/building-on-bsv-a-comprehensive-guide/)
 - [SmartContracts on BSV : sCrypt docs](https://docs.scrypt.io)
+- [1Sat Ordinals docs](https://docs.1satordinals.com)
 - [SmartContracts Video Tutorials](https://youtube.com/@bitcoinclasswithsatoshi7988)
 - [Introduction to BSV Scripting](https://blog.moneybutton.com/2018/11/12/introduction-to-bsv-scripting/)
 - [Bitcoin SV: Scaling the Unscalable](https://coingeek.com/bitcoin-sv-scaling-the-unscalable/)
