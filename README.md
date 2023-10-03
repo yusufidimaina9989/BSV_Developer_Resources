@@ -47,7 +47,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 ## Development Libraries
 
 - [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
-- [Bitindex JavaScript Library](https://github.com/bitindex/bitindex-sdk-js)
+- [TxForge: Modern Bitcoin transaction builder](https://github.com/libitx/txforge) - capable of supporting any non-standard and custom script type.
 - [sCrypt-TS SmartContracts Library](https://github.com/sCrypt.inc)
 - [sCrypt 1Sat Ordinals Library](https://github.com/sCrypt-Inc/scrypt-ord)
 - [Dart Library for Interacting with Bitcoin Network](https://github.com/twostack/dartsv)
@@ -67,6 +67,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Babbage SDK](https://github.com/p2ppsr/babbage-sdk) for building Bitcoin SV apps.
 - [Flutter BSV](https://github.com/Dhuliang/flutter-bsv) - Dart library for Bitcoin SV apps.
 - [LinkSV](https://www.npmjs.com/package/linksv) - A Bitcoin SV (BSV) data protocol for effortless reads, writes and updates. Write any arbitrary javascript class value to the blockchain and easily update it, leaving an immutable audit trail.
+- [Bitindex JavaScript Library](https://github.com/bitindex/bitindex-sdk-js)
 
 ## Service & Tools
 
