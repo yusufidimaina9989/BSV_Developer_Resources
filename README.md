@@ -57,7 +57,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Codeonchain (archived)](https://coingeek.com/codeonchain-introduces-a-github-for-the-bsv-blockchain) - Upload a repository to metanet.
 - [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
 - [bitcoinj-sv](https://gitlab.com/bitcoinj-sv/bitcoinj-sv/) - The bitcoinj-sv library is a Java implementation of the Bitcoin SV protocol. This library is a fork of Mike Hearn's original bitcoinj library aimed at supporting Bitcoin SV.
-- [BitcoinJ optimised for BitcoinSV and Teranode](https://github.com/bitcoin-sv/bitcoinj-sv)
+- [BitcoinJ optimised for BitcoinSV](https://github.com/bitcoin-sv/bitcoinj-sv)  - The bitcoinj-sv library is a Java implementation of the Bitcoin SV protocol, focussed on server functionality.
 - [BitSV](https://github.com/AustEcon/bitsv) - An easy-to-use Python 3, Bitcoin SV library.
 - [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js.
 - [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - A JavaScript Library for building transactions for Bitcoin Files Protocol (BFP). [SDK](https://github.com/BitcoinFiles/bitcoinfiles-sdk)
