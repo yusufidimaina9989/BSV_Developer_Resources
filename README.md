@@ -14,8 +14,11 @@ A curated list of resources, tools, libraries, and projects related to the Bitco
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Development Libraries](#development-libraries)
+- [Standard and Protocols](#standard-and-protocols)
 - [Service & Tools](#service-&-tools)
+- [Services For Developers](#services-for-developers)
 - [Oracles](#oracles)
+- [Bsv Blockchain Implementations](#bsv-blockchain-implementations)
 - [Social Media](#social-media)
 - [Storage](#storage)
 - [Commercial](#commercial)
@@ -43,7 +46,6 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 
 - [Bitindex JavaScript Library](https://github.com/bitindex/bitindex-sdk-js)
-- [sCrypt-TS SmartContracts Library](https://github.com/sCrypt.inc)
 - [sCrypt 1Sat Ordinals Library](https://github.com/sCrypt-Inc/scrypt-ord)
 - [Money Button JavaScript Library](https://github.com/moneybutton/bsv)
 - [Dart Library for Interacting with Bitcoin Network](https://github.com/twostack/dartsv)
@@ -62,6 +64,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Go Bitcoin](https://gobitcoinsv.com) - Bitcoin libraries in Golang.
 
 ## Standard And Protocols
+
 - [BSV Wiki](https://wiki.bitcoinsv.io/) – Aim to provide correct and up-to-date information on the Bitcoin protocol, network, and its features and functionality.
 - [Merchant API[(https://github.com/bitcoin-sv-specs/brfc-merchantapi) (mAPI) – Is an additional service miners can offer to merchants, enabling them to get policy and fee quotes for submitting transactions and query their status.
 - [Paymail](https://tsc.bsvblockchain.org/standards/paymail/) – A collection of protocols for BSV blockchain wallets that allow for a set of simplified user experiences to be delivered across all wallets in the ecosystem.
@@ -71,7 +74,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
   
 
 ## Services For Developers
-- [WhatsOnChain](https://whatsonchain.com/) is a block explorer. As well as being able to look up blocks and transactions, users can broadcast transactions directly (e.g., to test) and more. 
+
 - [TAAL](https://taal.com/) is a key miner in the space, but it also has a platform with various services for developers. As well as a wallet, there’s the STAS SDK, token service API, tools for managing transactions, and more.
 - [Bitcoin analytics] like BSVdata.com give a better view of what’s happening on an application level. This can help developers check on how successful their applications are in reality.
 - [JungleBus](https://coingeek.com/how-junglebus-indexes-bitcoin-internet-of-value-workshop/) is a powerful, low-level indexer to power lightweight Bitcoin data sets.
@@ -83,6 +86,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 
 ## Service & Tools
+
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
 - [etched](https://etched.page/) 
 - [ElectrumSV Wallet](https://electrumsv.io/)
@@ -92,9 +96,9 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 
 ## BSV Blockchain Implementations
+
 - [sCrypt](scrypt.io) is a Typescript framework to write smart contracts on a Bitcoin Virtual Machine. It’s a high-level language much more like Javascript or Typescript, making it much more familiar and easy than Bitcoin’s native Script.
 - [Bitcoin Reader] is a light node that lets you read the traffic and transactions on the network. It’s something like a light node. Again, it’s open source and can be used for free.
-- [Tokenized Protocol](https://tokenized.com/) is an application layer smart contract and token protocol. It was developed by Tokenized but has an open-source license.
 - [Tx Forge](https://github.com/runonbitcoin/nimble) is a modern Bitcoin transaction builder. It’s capable of supporting any non-standard and custom script type. It’s built on the Nimble library.
 - [BSVLIB] is a BSV Python library. It has key management, digital signatures, standard script types, integrations with APIs, and more.
 
@@ -164,7 +168,6 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 ## Projects
 
 - [BSV DevCon](https://bsvdevcon.net/)
-- [sCrypt - SmartContracts Tooling](https://scrypt.io)
 - [Bitping - Network Monitoring](https://bitping.com/)
 - [Baemail - Encrypted Messaging](https://baemail.me/)
 - [WeatherSV - Weather Data on BSV](https://weathersv.app/)
@@ -172,7 +175,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [B Protocol](https://github.com/unwriter/B) - Bitcoin Simple Storage Protocol. [Try it](https://b.bitdb.network)
 - [Datapay](https://github.com/unwriter/datapay) - Build and broadcast data transactions to the Bitcoin SV blockchain.
 - [Planaria](https://planaria.network/) - Infinite API over Bitcoin.
-- [paymail](https://github.com/bitcoin-sv-specs/paymail) - BSV paymail protocol. [express implementation](https://github.com/moneybutton/express-paymail) [client](https://github.com/moneybutton/paymail-client)
+-  [express implementation](https://github.com/moneybutton/express-paymail) [client](https://github.com/moneybutton/paymail-client)
 - [bottle](https://github.com/interplanaria/bottle) - A bitcoin browser.
 - [BSV Editor](http://www.bowmain.co.uk/BSV/index.html) - A Bitcoin script compiler/debugger with GUI.
 - [planter](https://github.com/MerlinB/planter) - A library for fetching and creating Metanet nodes on the Bitcoin SV blockchain.
@@ -201,7 +204,6 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 ## Articles and Tutorials
 
 - [Building on BSV: A Comprehensive Guide](https://bitcoinsv.io/2020/04/22/building-on-bsv-a-comprehensive-guide/)
-- [SmartContracts on BSV : sCrypt docs](https://docs.scrypt.io)
 - [SmartContracts Video Tutorials](https://youtube.com/@bitcoinclasswithsatoshi7988)
 - [Introduction to BSV Scripting](https://blog.moneybutton.com/2018/11/12/introduction-to-bsv-scripting/)
 - [Bitcoin SV: Scaling the Unscalable](https://coingeek.com/bitcoin-sv-scaling-the-unscalable/)
