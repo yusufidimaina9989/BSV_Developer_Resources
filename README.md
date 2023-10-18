@@ -61,6 +61,26 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Polynym](https://polynym.io/) - Simple BSV address resolution for Twetch, HandCash, RelayX and PayMail handles.
 - [Go Bitcoin](https://gobitcoinsv.com) - Bitcoin libraries in Golang.
 
+## Standard And Protocols
+- [BSV Wiki](https://wiki.bitcoinsv.io/) – Aim to provide correct and up-to-date information on the Bitcoin protocol, network, and its features and functionality.
+- [Merchant API[(https://github.com/bitcoin-sv-specs/brfc-merchantapi) (mAPI) – Is an additional service miners can offer to merchants, enabling them to get policy and fee quotes for submitting transactions and query their status.
+- [Paymail](https://tsc.bsvblockchain.org/standards/paymail/) – A collection of protocols for BSV blockchain wallets that allow for a set of simplified user experiences to be delivered across all wallets in the ecosystem.
+- [Metanet](https://wiki.bitcoinsv.io/index.php/Metanet_Protocol) – The Metanet protocol is a layer two overlay protocol that defines a method for creating data structures over the BSV blockchain.
+- [Envelope Specification](https://tsc.bsvblockchain.org/standards/envelope-specification/) – This standard aims to provide a framework for specifying different protocols embedded in Bitcoin transactions.
+- [Peer Channels](https://www.bsvblockchain.org/features/peer-channel) – These offer encrypted persistent messaging between BSV users, integrating offline and direct communications to enable the peer-to-peer interactions Satoshi described as fundamental to the Bitcoin network.
+  
+
+## Services For Developers
+- [WhatsOnChain](https://whatsonchain.com/) is a block explorer. As well as being able to look up blocks and transactions, users can broadcast transactions directly (e.g., to test) and more. 
+- [TAAL](https://taal.com/) is a key miner in the space, but it also has a platform with various services for developers. As well as a wallet, there’s the STAS SDK, token service API, tools for managing transactions, and more.
+- [Bitcoin analytics] like BSVdata.com give a better view of what’s happening on an application level. This can help developers check on how successful their applications are in reality.
+- [JungleBus](https://coingeek.com/how-junglebus-indexes-bitcoin-internet-of-value-workshop/) is a powerful, low-level indexer to power lightweight Bitcoin data sets.
+- [Bitails] is a BSV archive, indexer, and UTXO manager that provides APIs, sockets, and other features for developers and companies working on the BSV blockchain.
+- [HandCash Connect] is an SDK that connects to an API. It gives developers access to a powerful, easy-to-use wallet-as-a-service.
+- [Relysia] helps businesses process BSV blockchain payments. It’s a one-stop-shop in terms of API and SDK.
+- [Tokenized] is a Smart Contracting platform-as-a-service as well as a wallet-as-a-service. It enables anyone to easily issue, manage, and trade digital assets and is based on the Tokenized protocol.
+
+
 
 ## Service & Tools
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
@@ -69,6 +89,14 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Sensilet Wallet](https://sensilet.com)
 - [BSV Wallet](https://bsvwallet.dev/)
 - [MetaID - Identity Protocol](https://metaid.app/)
+
+
+## BSV Blockchain Implementations
+- [sCrypt](scrypt.io) is a Typescript framework to write smart contracts on a Bitcoin Virtual Machine. It’s a high-level language much more like Javascript or Typescript, making it much more familiar and easy than Bitcoin’s native Script.
+- [Bitcoin Reader] is a light node that lets you read the traffic and transactions on the network. It’s something like a light node. Again, it’s open source and can be used for free.
+- [Tokenized Protocol](https://tokenized.com/) is an application layer smart contract and token protocol. It was developed by Tokenized but has an open-source license.
+- [Tx Forge](https://github.com/runonbitcoin/nimble) is a modern Bitcoin transaction builder. It’s capable of supporting any non-standard and custom script type. It’s built on the Nimble library.
+- [BSVLIB] is a BSV Python library. It has key management, digital signatures, standard script types, integrations with APIs, and more.
 
 ## Oracles
 
