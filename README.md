@@ -112,6 +112,13 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Tx Forge](https://github.com/runonbitcoin/nimble) is a modern Bitcoin transaction builder. It’s capable of supporting any non-standard and custom script type. It’s built on the Nimble library.
 - [BSVLIB] is a BSV Python library. It has key management, digital signatures, standard script types, integrations with APIs, and more.
 
+## Ordinals
+- [inscribe.scrypt.io](https://inscribe.scrypt.io) - A platform that allow you to simply inscribe images, text and bsv-20 tokens, it support both testnet and mainnet.
+- [1satOrdinal](https://1satordinals.com) - is an Ordinals Marketplace, where you can easily buy and sell Ordinals.
+- [sCrypt - Ord](https://github.com/sCrypt-Inc/scrypt-ord) its an sCrypt SDK that allows writing SmartContracts with Ordinals.
+- [sCrypt - Ord Documentation](https://docs.scrypt.io/tokens/) a sCrypt - ord documentation.
+- [Ordinal protocol[(https://docs.1satordinals.com/)
+
 ## Oracles
 
 - [WitnessOnChain Oracle](https://witnessonchain.com/)
