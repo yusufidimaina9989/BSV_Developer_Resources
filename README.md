@@ -117,7 +117,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [1satOrdinal](https://1satordinals.com) - is an Ordinals Marketplace, where you can easily buy and sell Ordinals.
 - [sCrypt - Ord](https://github.com/sCrypt-Inc/scrypt-ord) its an sCrypt SDK that allows writing SmartContracts with Ordinals.
 - [sCrypt - Ord Documentation](https://docs.scrypt.io/tokens/) a sCrypt - ord documentation.
-- [Ordinal protocol[(https://docs.1satordinals.com/)
+- [Ordinal protocol](https://docs.1satordinals.com/)
 
 ## Oracles
 
