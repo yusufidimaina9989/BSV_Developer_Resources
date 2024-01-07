@@ -118,6 +118,10 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [sCrypt - Ord](https://github.com/sCrypt-Inc/scrypt-ord) its an sCrypt SDK that allows writing SmartContracts with Ordinals.
 - [sCrypt - Ord Documentation](https://docs.scrypt.io/tokens/) a sCrypt - ord documentation.
 - [Ordinal protocol](https://docs.1satordinals.com/)
+- [Panda wallet](https://panda-wallet.gitbook.io/) -  is an open-source digital wallet for BSV and 1Sat Ordinals that enables access to decentralized applications developed on Bitcoin SV.
+- [FireSat](https://firesat.io/) - is a fully  non - custodial BSV web3 wallet with BSV20 and 1SatOrdinals NFT marketplace.
+- [RelayX inscriber](https://relayx.com/inscribe) - an inscriber for 1sat Ordinals.
+- [Indexer API](https://github.com/adshao/ordinals-indexer#:~:text=Ordinals%20Indexer%20is%20an%20API,and%20manage%20ordinals%20inscriptions%20data.) - Ordinals Indexer is an API server and index synchronizer for ordinals inscriptions. It provides a robust and efficient way to interact with and manage ordinals inscriptions data.
 
 ## Oracles
 
